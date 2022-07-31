@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Galary_api/static/css/main.1d653f79.css",
+    "main.js": "/Galary_api/static/js/main.49084cdb.js",
+    "index.html": "/Galary_api/index.html",
+    "main.1d653f79.css.map": "/Galary_api/static/css/main.1d653f79.css.map",
+    "main.49084cdb.js.map": "/Galary_api/static/js/main.49084cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d653f79.css",
+    "static/js/main.49084cdb.js"
+  ]
+}
